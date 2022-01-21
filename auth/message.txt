@@ -1,0 +1,10 @@
+
+Hi ${PERSON_NAME},
+
+Here is the confirmation code for your authentification :
+
+                【 ${CODE} 】
+
+All you have to do is to copy and past it to complete your registration
+
+Yours Truly
